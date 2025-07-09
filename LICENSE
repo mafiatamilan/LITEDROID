@@ -1,0 +1,26 @@
+Business Source License 1.1
+
+Licensor: Lite Droid Project Team  
+Licensed Work: LITE DROID — A Gaming Android Emulator for Linux  
+License Date: July 9, 2025  
+Repository: https://github.com/mafiatamilan/LITEDROID
+
+Purpose:
+The Licensed Work is provided for the purpose of open development, learning, and contribution.  
+Usage is restricted to non-production, non-commercial environments.
+
+Permissions:
+✔ You may view and read the source code  
+✔ You may contribute to the code via pull requests  
+✘ You may NOT use the software for commercial purposes  
+✘ You may NOT copy, redistribute, sublicense, or host the software  
+✘ You may NOT build derivative software using this code without express written permission
+
+Change Date: None (restricted use applies indefinitely)  
+Change License: None (remains under this license permanently, unless stated otherwise)
+
+This software is **source-available**, but not open source under OSI standards.  
+Any usage outside of contribution or personal review must be approved in writing by the Licensor.
+
+This license is based on the Business Source License 1.1.  
+Full legal text: https://github.com/mariadb/bsl/blob/main/LICENSE
